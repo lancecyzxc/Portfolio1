@@ -1,0 +1,41 @@
+
+
+.img1{
+    width: 120px;
+    height: 69.767px;
+    flex-shrink: 0;
+    padding-left: 15px;
+   
+}
+ 
+#hero {
+    display: flex;
+    margin-left: 100px;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+ul {
+    display: flex;
+    gap: 30px;
+}
+li {
+    display: flex;
+}
+
+#home {
+    height: 100vh;
+}
+
+.zxc {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 200px;
+}
